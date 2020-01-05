@@ -1,0 +1,10 @@
+---
+vpc_id: vpc-11909576
+subnet_id: subnet-25e0266d
+ec2_keypair: admin
+instance_count: 2
+db_subnets:
+  - subnet-25e0266d
+  - subnet-7011212b
+db_availability_zone: ap-northeast-1a
+db_username: todobackend
