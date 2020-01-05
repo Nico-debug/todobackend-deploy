@@ -8,3 +8,4 @@ db_subnets:
   - subnet-7011212b
 db_availability_zone: ap-northeast-1a
 db_username: todobackend
+db_password: password
